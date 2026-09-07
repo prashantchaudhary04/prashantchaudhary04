@@ -127,14 +127,6 @@ Strengthening problem-solving skills through consistent practice across coding p
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashantchaudhary04&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&ring_color=00b4d8&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantchaudhary04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=prashantchaudhary04&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=90e0ef&stroke=00b4d820&currStreakNum=caf0f8&sideNums=caf0f8" width="60%"/>
 
 </div>
