@@ -1,47 +1,181 @@
-<h1 align="center">Hii 👋, I'm Prashant Chaudhary</h1>
-<h3 align="center">A Passionate Full-Stack Developer 🚀 | Building, Learning & Solving Problems</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantchaudhary04&label=Profile%20views&color=0e75b6&style=flat" alt="prashantchaudhary04" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Prashant%20Chaudhary&fontSize=85&color=0:0d1117,50:0d1117,100:0d1117&stroke=00b4d8&strokeWidth=2&fontColor=00b4d8&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Developer&descSize=20&descAlignY=75&descColor=90e0ef" width="100%"/>
 
-- 🔭 I’m currently working on **building scalable full-stack web applications.**
+</div>
 
-- 🌱 I’m currently learning **system design, scalable backend architecture, and cloud technologies.**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **innovative full-stack projects, open-source initiatives, and real-world solutions.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&duration=3500\&pause=1000\&color=00B4D8\&center=true\&vCenter=true\&width=750\&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Full+Stack+Experiences+%F0%9F%92%BB;MERN+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Node.js;Solving+Problems%2C+Building+Projects+%F0%9F%A7%A0)](https://github.com/prashantchaudhary04)
 
-- 👨‍💻 All of my projects are available at [https://github.com/prashantchaudhary04/](https://github.com/prashantchaudhary04/)
+</div>
 
-- 💬 Ask me about **Full-Stack Development, MERN Stack, DSA, and Building Real-World Applications.**
+<div align="center">
 
-- 📫 How to reach me **prashant020805@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=prashantchaudhary04\&style=for-the-badge\&color=0d1117\&label=PROFILE+VIEWS\&labelColor=161b22)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0d1117)](https://www.linkedin.com/in/prashantchaudhary04/)
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00b4d8?style=for-the-badge\&logo=google-chrome\&logoColor=white\&labelColor=0d1117)](https://portfolio-main-5jsw.onrender.com/)
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=0d1117)](mailto:prashant020805@gmail.com)
 
-- ⚡ Fun fact **I think I'm funny...**
+</div>
 
-## 📈 GitHub Contributions
-![Leetcode Stats](https://leetcard.jacoblin.cool/_prashantchaudhary_?ext=heatmap)
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prashantch68891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashantch68891" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prashantchaudhary04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantchaudhary04" height="30" width="40" /></a>
-<a href="https://instagram.com/__prashantchaudhary__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__prashantchaudhary__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prashant020805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashant020805" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_prashantchaudhary_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_prashantchaudhary_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## `$ whoami`
+
+```yaml
+name        : Prashant Chaudhary
+role        : Full Stack Developer | MERN Stack Developer
+location    : India 🇮🇳
+education   : B.Tech IT @ AKGEC, Ghaziabad (2022 – 2026)
+
+expertise   :
+  - Full Stack Web Development
+  - MERN Stack Development
+  - Responsive UI Development
+  - REST API Development
+  - Database Management
+  - Data Structures & Algorithms
+
+currently   :
+  - Building modern web applications 🚀
+  - Strengthening MERN Stack skills 💻
+  - Solving DSA problems 🧠
+  - Exploring new technologies 🌱
+
+philosophy  : "Build. Learn. Solve. Repeat."
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white\&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white\&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white\&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white\&labelColor=0d1117)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black\&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=0d1117)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white\&labelColor=0d1117)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white\&labelColor=0d1117)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-%2300A4A6.svg?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=0d1117)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white\&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white\&labelColor=0d1117)
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+| Project             | Stack      | Highlights                                                              |
+| :------------------ | :--------- | :---------------------------------------------------------------------- |
+| **🏠 apnaGHAR.com** | MERN Stack | Full Stack web application with a modern and responsive user experience |
+
+</div>
+
+### 🏠 apnaGHAR.com
+
+A full-stack web application built using the **MERN stack**, focused on delivering a modern, responsive, and user-friendly experience.
+
+**Tech:** React · Node.js · Express.js · MongoDB · JavaScript
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+### 🔥 500+ DSA Problems Solved
+
+Strengthening problem-solving skills through consistent practice across coding platforms.
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashantchaudhary04&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&ring_color=00b4d8&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantchaudhary04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=prashantchaudhary04&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=90e0ef&stroke=00b4d820&currStreakNum=caf0f8&sideNums=caf0f8" width="60%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  💻  Full Stack Developer focused on MERN Stack                 ║
+║  🧠  500+ DSA Problems Solved                                   ║
+║  🚀  Building Modern & Responsive Web Applications              ║
+║  🏠  Built apnaGHAR.com — Full Stack Web Application             ║
+║  🌱  Continuously Learning & Improving                           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
 
 
+## 🌐 Connect With Me
 
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300B4D8.svg?style=for-the-badge\&logo=google-chrome\&logoColor=white\&labelColor=0d1117)](https://portfolio-main-5jsw.onrender.com/)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0d1117)](https://www.linkedin.com/in/prashantchaudhary04/)
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0d1117)](https://github.com/prashantchaudhary04)
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=0d1117)](mailto:prashant020805@gmail.com)
 
+</div>
 
+<br/>
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:023e8a&section=footer&fontColor=caf0f8&fontSize=16&text=Thanks+for+visiting+%F0%9F%9A%80&fontAlignY=65" width="100%"/>
 
-
-<!---
-Prashant020804/Prashant020804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
