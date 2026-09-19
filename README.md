@@ -127,7 +127,7 @@ Strengthening problem-solving skills through consistent practice across coding p
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=prashantchaudhary04&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=90e0ef&stroke=00b4d820&currStreakNum=caf0f8&sideNums=caf0f8" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=prashantchaudhary04" width="60%" />
 
 </div>
 
